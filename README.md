@@ -1,5 +1,6 @@
 # demo
 This is my first Git Repository
 <br>
-Author: Pratik Patil (engineer)
+Author: Pratik Patil (engineers)
+
 
